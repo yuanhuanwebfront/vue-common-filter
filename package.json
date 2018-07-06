@@ -1,0 +1,15 @@
+{
+  "name": "vue-common-filter",
+  "version": "1.0.6",
+  "description": "common vue filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "filetr",
+    "vue"
+  ],
+  "author": "yuanhuan",
+  "license": "ISC"
+}
